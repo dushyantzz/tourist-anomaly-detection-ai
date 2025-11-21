@@ -1,4 +1,4 @@
-# Tourist Anomaly Detection AI – SIH Ready
+# Tourist Anomaly Detection AI
 
 ## Overview
 

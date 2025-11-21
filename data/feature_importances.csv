@@ -1,0 +1,15 @@
+feature,importance
+battery_percent,6369
+distance_from_route_m,6355
+inactivity_minutes,4760
+longitude,3569
+latitude,2237
+speed_mps,1891
+user_id_encoded,1868
+hour,1759
+signal_strength,1126
+route_id_encoded,517
+day_of_week,186
+is_emergency_action,6
+is_checkin,2
+month,0

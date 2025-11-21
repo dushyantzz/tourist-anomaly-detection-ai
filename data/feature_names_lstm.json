@@ -1,0 +1,1 @@
+["latitude", "longitude", "speed_mps", "distance_from_route_m", "is_checkin", "battery_percent", "signal_strength", "is_emergency_action", "inactivity_minutes", "hour", "day_of_week", "user_id_encoded", "route_id_encoded"]
